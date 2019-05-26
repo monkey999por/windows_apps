@@ -1,4 +1,3 @@
-'use strict';
 
 // Electronのモジュール
 const electron = require("electron");
