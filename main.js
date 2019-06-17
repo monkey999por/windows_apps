@@ -1,5 +1,6 @@
 'use strict';
 
+
 // Electronのモジュール
 const electron = require("electron");
 
@@ -30,3 +31,6 @@ app.on('ready', function() {
     mainWindow = null;
   });
 });
+
+
+
